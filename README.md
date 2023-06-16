@@ -1,2 +1,2 @@
-# registrasi-login-lupa-password
-Proses registrasi, login, dan lupa password menggunakan codeigniter 3.
+# RegistrasiLoginForgetPassword
+Proses registrasi, login, dan forget password menggunakan codeigniter 3.
